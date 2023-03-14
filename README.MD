@@ -37,7 +37,7 @@ WHEN I choose to update an employee role
 ## Installation
 You have to clone the repo. Then do npm I to download dependinces.Source the db and seeds with mysql. And lastly run npm start
 ## Usage 💡
-https://user-images.githubusercontent.com/111899130/220769967-34f85fb6-aa92-4b3b-b5d9-cc120611826b.mp4
+https://user-images.githubusercontent.com/111899130/224824772-8cd5f794-6490-4582-b643-8215a6b66711.mp4
 
 
 ## License ![License Badge](https://img.shields.io/badge/license-Unlicense-blue.svg)
